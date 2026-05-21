@@ -4,6 +4,7 @@ An AI-powered GitHub Dev Card Generator built using FastAPI, Gemini AI, MCP Tool
 
 Generate beautiful developer profile cards from any public GitHub username with AI-powered profile analysis, skills extraction, and dynamic developer card generation.
 
+Live Link: https://github-card-frontend-koivsijrwq-uc.a.run.app/
 
 ✨ Features
 
